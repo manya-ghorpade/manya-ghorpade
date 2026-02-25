@@ -2,8 +2,8 @@
 
 ## 🚀 About Me  
 
-I am a BTech student specializing in Artificial Intelligence and Machine Learning with a strong interest in building intelligent systems. I enjoy coding, developing machine learning models, and continuously exploring new technologies.  
+🎓 BTech student in Artificial Intelligence & Machine Learning who enjoys turning ideas into real projects. I’m passionate about 💻 coding, 🤖 building ML models, and continuously learning new technologies.  
 
-Currently, I am focused on strengthening my skills in Machine Learning, Deep Learning, and Data Science through hands-on projects. I am a curious learner who works well both independently and in teams.  
+📊 Currently exploring Machine Learning, Deep Learning, and Data Science through hands-on work.  
 
-🎯 Aspiring AI / ML Engineer passionate about creating impactful solutions.  
+🎯 Aspiring AI / ML Engineer driven by curiosity and continuous learning.  
