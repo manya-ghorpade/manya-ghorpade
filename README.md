@@ -20,9 +20,8 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manya-ghorpade&theme=tokyonight" />
+![Manya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manya-ghorpade&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manya-ghorpade&theme=tokyonight" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manya-ghorpade&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manya-ghorpade&theme=tokyonight" />
-
+![GitHub Streak](https://streak-stats.demolab.com?user=manya-ghorpade&theme=tokyonight)
