@@ -1,9 +1,12 @@
-## Hi there 👋
+## ✨ About Me  
 
-## 🚀 About Me  
+👋 Hi, I’m Manya  
 
-🎓 BTech student in Artificial Intelligence & Machine Learning who enjoys turning ideas into real projects. I’m passionate about 💻 coding, 🤖 building ML models, and continuously learning new technologies.  
+🎓 BTech AI & ML student passionate about building intelligent systems  
+💻 I enjoy coding, developing machine learning models, and turning ideas into real projects  
 
-📊 Currently exploring Machine Learning, Deep Learning, and Data Science through hands-on work.  
+📊 Exploring Machine Learning, Deep Learning, and Data Science through hands-on learning  
 
-🎯 Aspiring AI / ML Engineer driven by curiosity and continuous learning.  
+🧠 Curious mindset • 🚀 Continuous learner • 🤝 Team player  
+
+🎯 Goal: Become an AI / ML Engineer and build impactful solutions  
